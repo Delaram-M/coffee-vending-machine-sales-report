@@ -12,7 +12,7 @@ The following is a screenshot of the report for espresso and americano only.
 
 <img src="screenshot-2.png" alt="espresso-americano-report" width=700>
 
-## Insights
+## Patterns and Insights
 
 The most popular coffee types are:
 1. Latte (~24.1% of sales)
