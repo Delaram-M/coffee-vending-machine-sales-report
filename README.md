@@ -37,6 +37,14 @@ It appears that overall, the median of payment time slots is highest in the warm
 Using the slicer, we can see that Americano is visibly more popular in February (late Winter) and March (early Spring).
 
 
+## Recommendations
+
+Here are some recommendations based on the above patterns and insights:
+- Considering the top 3 most popular drinks all include milk, it's important to make sure vending machines do not run out of milk.
+- If we ever planned on reducing the number of coffee types served in our vending machines, removing the least popular coffee type, which is espresso, would be the most logical option.
+- It's best to refill the vending machines during the 6-7 o'clock time slot, which had the lowest sum of payments.
+- If we want to start any marketing campaigns, it can be a good option to focus on increasing sales in the coldest and warmest months, where sales seem to be lower than in other months.
+
 
 ## Attributions
 The <a href="https://www.kaggle.com/">Kaggle</a> dataset used for this report
