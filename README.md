@@ -26,7 +26,7 @@ Overall sales decreased from May (late Spring) to July (mid Summer) and increase
 
 Overall, sales tend to be lower in the warmest and coldest months.
 
-The lowest sales occurred in the 6-7 o'clock time slot. The sales increased until it peaked in the 10-11 o'clock time slot, and started decreasing. The second-highest peak occurred in the 16-17 o'clock time slot. 
+The lowest non-zero sales occurred in the 6-7 o'clock time slot. The sales increased until it peaked in the 10-11 o'clock time slot, and started decreasing. The second-highest peak occurred in the 16-17 o'clock time slot. 
 
 It appears that the highest sales in an hour occurred a little after the start and a little before the end of the workday.
 
@@ -42,7 +42,7 @@ Using the slicer, we can see that Americano is visibly more popular in February 
 Here are some recommendations based on the above patterns and insights:
 - Considering the top 3 most popular drinks all include milk, it's important to make sure vending machines do not run out of milk.
 - If we ever planned on reducing the number of coffee types served in our vending machines, removing the least popular coffee type, which is espresso, would be the most logical option.
-- It's best to refill the vending machines during the 6-7 o'clock time slot, which had the lowest sum of payments.
+- It's best to refill the vending machines between 11 pm and 6 am, which had zero sum of payments. 
 - If we want to start any marketing campaigns, it can be a good option to focus on increasing sales in the coldest and warmest months, where sales seem to be lower than in other months.
 
 
