@@ -84,9 +84,7 @@ It's best to refill the vending machine between 11 pm and 6 am, which had zero s
 
 **3. What should our next marketing campaigns focus on?**
 
-It can be a good option to focus on increasing sales in the coldest and warmest months, where sales seem to be lower than in other months. We need to conduct surveys to better understand the reasons for the drop in sales during these months to increase the effectiveness of the marketing campaigns.
-
-Tuesday (with ~18.6k sales) and Monday (with ~17.9k sales), the days in the beginning of the work week have the highest overall sales. Sunday (with ~13.9k sales) and Saturday (with ~15.2k sales), the weekend days have the lowest overall sales. Another potential focus for the marketing campaigns can be the weekend sales.
+It can be a good option to focus on increasing sales in the coldest and warmest months, where sales seem to be lower than in other months. We need to conduct surveys to better understand the reasons for the drop in sales during these months to increase the effectiveness of the marketing campaigns. Another potential focus for the marketing campaigns can be the weekend, which has lower sales.
 
 
 
