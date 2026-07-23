@@ -76,7 +76,7 @@ The following are the days of week with the lowest sales:
 The most popular coffee types are Latte (~24.1% of sales), Americano with Milk (~21.9% of sales), and Cappuccino (~15.6% of sales).
 The least popular coffee type is Espresso (~2.4% of sales), and the next least popular coffee type is Cortado (~6.5% of sales), which is ~2.7 times more popular than Espresso.
 It's important to note that even though Espresso itself is the least popular drink, it's a common ingredient of the most popular coffee types.
-The top 3 most popular drinks all include espresso and milk, which suggests these two are the most critical ingredients, and it's important to make sure vending machine do not run out of espresso or milk.
+The top 3 most popular drinks all include espresso and milk, which suggests these two are the most critical ingredients, and it's important to make sure the vending machine does not run out of espresso or milk.
 
 **2. What is the best time to refill the vending machine?**
 
