@@ -16,7 +16,6 @@ These are the business questions we are trying to respond to using this report:
 1. What are the most and least popular coffee drinks, and what are the most critical ingredients in the coffee vending machine?
 2. What is the best time to refill the vending machine? 
 3. What should our next marketing campaigns focus on?
-4. What days of week have the highest and lowest sales?
 
 ## Screenshots
 
@@ -64,7 +63,7 @@ The following are the days of week with the highest sales:
 1. Tuesday (~18.6k sales)
 2. Monday (~17.9k sales)
 
-THe following are the days of week with the lowest sales:
+The following are the days of week with the lowest sales:
 1. Sunday (~13.9k sales)
 2. Saturday (~15.2k sales)
 
@@ -87,9 +86,11 @@ It's best to refill the vending machine between 11 pm and 6 am, which had zero s
 
 It can be a good option to focus on increasing sales in the coldest and warmest months, where sales seem to be lower than in other months. We need to conduct surveys to better understand the reasons for the drop in sales during these months to increase the effectiveness of the marketing campaigns.
 
-**4. What days of week have the highest and lowest sales?**
+Tuesday (with ~18.6k sales) and Monday (with ~17.9k sales), the days in the beginning of the work week have the highest overall sales. Sunday (with ~13.9k sales) and Saturday (with ~15.2k sales), the weekend days have the lowest overall sales. Another potential focus for the marketing campaigns can be the weekend sales.
 
-Tuesday (with ~18.6k sales) and Monday (with ~17.9k sales), the days in the beginning of the work week have the highest overall sales. Sunday (with ~13.9k sales) and Saturday (with ~15.2k sales), the weekend days have the lowest overall sales.
+
+
+
 
 
 
