@@ -89,7 +89,7 @@ It can be a good option to focus on increasing sales in the coldest and warmest 
 
 **4. What days of week have the highest and lowest sales?**
 
-Tuesday (with ~18.6k sales) and Monday (with ~17.9k sales), the days in the beginning of the work week have the highest overall sales. Sunday (~13.9k sales and ~15.2k sales) have the lowest overall sales.
+Tuesday (with ~18.6k sales) and Monday (with ~17.9k sales), the days in the beginning of the work week have the highest overall sales. Sunday (with ~13.9k sales) and Saturday (with ~15.2k sales), the weekend days have the lowest overall sales.
 
 
 
