@@ -14,8 +14,9 @@ This project includes a Power BI report (`report.pbix`) for a coffee vending mac
 
 These are the business questions we are trying to respond to using this report:
 1. What are the most and least popular coffee drinks, and what are the most critical ingredients in the coffee vending machine?
-3. What is the best time to refill the vending machine? 
-4. What should our next marketing campaigns focus on?
+2. What is the best time to refill the vending machine? 
+3. What should our next marketing campaigns focus on?
+4. What days of week have the highest and lowest sales?
 
 ## Screenshots
 
@@ -24,6 +25,7 @@ The following is a screenshot of the report for all coffee types.
 <img src="screenshot-1.png" alt="all-coffee-report" width=700>
 
 The following is a screenshot of the report for espresso and americano only.
+
 
 <img src="screenshot-2.png" alt="espresso-americano-report" width=700>
 
@@ -58,6 +60,14 @@ It appears that overall, the median of payment time slots is highest in the warm
 Using the slicer, we can see that Americano is visibly more popular in February (late Winter) and March (early Spring).
 
 
+The following are the days of week with the highest sales:
+1. Tuesday (~18.6k sales)
+2. Monday (~17.9k sales)
+
+THe following are the days of week with the lowest sales:
+1. Sunday (~13.9k sales)
+2. Saturday (~15.2k sales)
+
 
 
 ## Insights and Recommendations
@@ -76,6 +86,10 @@ It's best to refill the vending machine between 11 pm and 6 am, which had zero s
 **3. What should our next marketing campaigns focus on?**
 
 It can be a good option to focus on increasing sales in the coldest and warmest months, where sales seem to be lower than in other months. We need to conduct surveys to better understand the reasons for the drop in sales during these months to increase the effectiveness of the marketing campaigns.
+
+**4. What days of week have the highest and lowest sales?**
+
+Tuesday (with ~18.6k sales) and Monday (with ~17.9k sales), the days in the beginning of the work week have the highest overall sales. Sunday (~13.9k sales and ~15.2k sales) have the lowest overall sales.
 
 
 
