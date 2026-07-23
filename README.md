@@ -84,7 +84,7 @@ It's best to refill the vending machine between 11 pm and 6 am, which had zero s
 
 **3. What should our next marketing campaigns focus on?**
 
-It can be a good option to focus on increasing sales in the coldest and warmest months, where sales seem to be lower than in other months. We need to conduct surveys to better understand the reasons for the drop in sales during these months to increase the effectiveness of the marketing campaigns. Another potential focus for the marketing campaigns can be the weekend, which has lower sales.
+It can be a good option to focus on increasing sales in the coldest and warmest months, where sales seem to be lower than in other months; we need to conduct surveys to better understand the reasons for the drop in sales during these months to increase the effectiveness of the marketing campaigns. Another potential focus for the marketing campaigns can be the weekend, which has lower sales.
 
 
 
